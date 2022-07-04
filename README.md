@@ -1,3 +1,3 @@
-# KapuczinoGraphic.github.io
+# KapuczinoGraphic
 
 ##Kapuczino Graphic
